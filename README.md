@@ -1,3 +1,3 @@
 ### Hi there! I'm Pohilov Maksim 👋
 
-![github](/images/icon.png)
+![Spokich](/customEmoji/pepeSmile.png)

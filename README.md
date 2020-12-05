@@ -1,3 +1,3 @@
 ### Hi there! I'm Pohilov Maksim 👋
 
-![Spokich](/customEmoji/pepeSmile.png) test 123
+![GitHub metrics](https://metrics.lecoq.io/Spokich)  
